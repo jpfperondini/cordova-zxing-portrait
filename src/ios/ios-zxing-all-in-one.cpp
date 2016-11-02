@@ -1,5 +1,5 @@
 
-#include "zxing-all-in-one.h"
+#include "ios-zxing-all-in-one.h"
 
 // file: zxing/BarcodeFormat.cpp
 
@@ -11979,4 +11979,3 @@ Point QREdgeDetector::endOfReverseBlackWhiteBlackRun(const BitMatrix& image, Poi
 
 } // namespace qrcode
 } // namespace zxing
-
